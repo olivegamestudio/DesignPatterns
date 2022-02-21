@@ -2,8 +2,6 @@
 
 using AbstractFactoryPattern;
 
-Console.WriteLine("Hello, World!");
-
 var dieselCar = new DieselCar();
 dieselCar.AddDiesel(5);
 
